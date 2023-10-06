@@ -44,7 +44,9 @@
   },
   "description": "All about Sasha the dog",
   "main": "index.js",
-  "repository": "git@github.com:DJbeats182/React-Landing-Page.git",
+  "repository": "git@github.com:DJbeats182/Squash.git",
   "author": "DJ Bates <blooviper@gmail.com>",
   "license": "MIT"
 }
+
+
