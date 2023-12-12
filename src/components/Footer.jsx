@@ -14,7 +14,7 @@ const Footer = () => {
             <div className='hover:cursor-pointer w-fit'>
                 <h1 className='w-full text-3xl font-bold text-[#d9833b]'>SQUASH.</h1>
             </div>
-          <p className='py-4'>SQUASH is the offical company ran by Sasha, aka. Sashi, Squasha, Evee, Sasha the bunny hurder, Sashi the Reindog.</p>
+          <p className='py-4'>SQUASH is the official company ran by Sasha, aka. Sashi, Squasha, Evee, Sasha the bunny hurder, Sashi the Reindog.</p>
             <div className='flex justify-between md:w-[75%] my-6'>
                 <FaFacebookSquare size={30} className='hover:cursor-pointer hover:scale-150 duration-300' />
                 <FaInstagram size={30} className='hover:cursor-pointer hover:scale-150 duration-300' />
